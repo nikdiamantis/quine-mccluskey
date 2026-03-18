@@ -214,7 +214,7 @@ void petricks_method(
 
 
     printf("\n=== PETRICK'S METHOD ===\n");
-    printf("Epipleon PI gia kalypsη twn ypolipwn minterms:\n");
+    printf("Epipleon PI gia kalypsh twn ypolipwn minterms:\n");
     for (int i = 0; i < total_primes; i++) {
         if (sop[best] & (1u << i)) {
             printf("  PI: %s = ", final_primes[i].duadiko);
