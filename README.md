@@ -1,3 +1,2 @@
 ATOMIKO PROJECT 1OU EJAMHNOU.
-To sugkekrimeno programma mporei kai aplopoei ,opoioudhpote arithmou metavlitwn, sunarthsh digital logic me eisagwgh ton arithmo twn metavlitwn ths, ton arithmo twn elaxistorwn ths kai tous elaxistorous(h eisagwgh tous ginetai me dekadiko susthma).
-GLWSSA GRAFHS:C
+Programma aplopoihshs sunarthshs psifiakhs sxediashs.
